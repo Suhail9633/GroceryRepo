@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-15T07:56:34 IST" name="GroceryApplications" finished-at="2025-01-15T07:56:47 IST" duration-ms="12478">
+    <groups>
+    </groups>
+    <test started-at="2025-01-15T07:56:34 IST" name="Test" finished-at="2025-01-15T07:56:47 IST" duration-ms="12478">
+      <class name="testCase.LoginPageTest">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:36 IST" name="beforeMethod" finished-at="2025-01-15T07:56:38 IST" duration-ms="2502" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:38 IST" name="loginWithInvalidCredentials" data-provider="data-provider" finished-at="2025-01-15T07:56:39 IST" duration-ms="551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suhail]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="afterMethode(org.testng.ITestResult)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:39 IST" name="afterMethode" finished-at="2025-01-15T07:56:39 IST" duration-ms="201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithInvalidCredentials status=SUCCESS method=LoginPageTest.loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:39 IST" name="beforeMethod" finished-at="2025-01-15T07:56:41 IST" duration-ms="1773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:41 IST" name="loginWithInvalidCredentials" data-provider="data-provider" finished-at="2025-01-15T07:56:41 IST" duration-ms="441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fgrdt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="afterMethode(org.testng.ITestResult)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:41 IST" name="afterMethode" finished-at="2025-01-15T07:56:41 IST" duration-ms="155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithInvalidCredentials status=SUCCESS method=LoginPageTest.loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:41 IST" name="beforeMethod" finished-at="2025-01-15T07:56:43 IST" duration-ms="1842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:43 IST" name="loginWithInvalidCredentials" data-provider="data-provider" finished-at="2025-01-15T07:56:44 IST" duration-ms="436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suhail]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fdssr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="afterMethode(org.testng.ITestResult)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:44 IST" name="afterMethode" finished-at="2025-01-15T07:56:44 IST" duration-ms="146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithInvalidCredentials status=SUCCESS method=LoginPageTest.loginWithInvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:44 IST" name="beforeMethod" finished-at="2025-01-15T07:56:46 IST" duration-ms="1719" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithValidCredential()[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:46 IST" name="loginWithValidCredential" finished-at="2025-01-15T07:56:47 IST" duration-ms="1091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredential -->
+        <test-method is-config="true" signature="afterMethode(org.testng.ITestResult)[pri:0, instance:testCase.LoginPageTest@3e694b3f]" started-at="2025-01-15T07:56:47 IST" name="afterMethode" finished-at="2025-01-15T07:56:47 IST" duration-ms="174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginWithValidCredential status=SUCCESS method=LoginPageTest.loginWithValidCredential()[pri:0, instance:testCase.LoginPageTest@3e694b3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethode -->
+      </class> <!-- testCase.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- GroceryApplications -->
+</testng-results>

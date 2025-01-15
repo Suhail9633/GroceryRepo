@@ -35,7 +35,6 @@ public class BaseClass {
 
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("Browser")
-
 	public void beforeMethod(String browserName) throws IOException {
 		if (browserName.equals("Chrome")) {
 			driver = new ChromeDriver();
@@ -50,7 +49,6 @@ public class BaseClass {
 	}
 
 	@AfterMethod(alwaysRun = true)
-
 	public void afterMethode(ITestResult iTestResult) throws IOException {
 		if (iTestResult.getStatus() == ITestResult.FAILURE) {
 			sc = new ScreenShotCapture();
