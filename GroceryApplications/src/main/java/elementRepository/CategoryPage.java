@@ -36,6 +36,7 @@ public class CategoryPage {
 //		Thread.sleep(2000);
 		categoryUpdateButton.click();
 //		gu.clickJavaScriptExecutor(categoryUpdateButton, driver);
+//		Staging sample
 		
 	}
 	public String editMessage() {
